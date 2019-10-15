@@ -1,5 +1,3 @@
-::: v-pre
-
 # Notificaciones
 
 - [Introducción](#introduction)
